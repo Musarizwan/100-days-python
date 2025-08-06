@@ -9,3 +9,8 @@
 - Lets user choose pizza size, add pepperoni and extra cheese.
 - Calculates total bill based on user choices.
 - Uses conditional logic (`if`, `elif`, `else`) for decision-making.
+## 🏴3. Treasure Island Adventure Game
+- A text-based adventure game where the player makes decisions to find the treasure.
+- Uses multiple `if`, `elif`, and `else` statements.
+- Improves understanding of logical flows and user input.
+
