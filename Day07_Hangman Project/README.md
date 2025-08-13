@@ -1,4 +1,4 @@
-sHangman Game 🎯
+Hangman Game 🎯
 A simple Python implementation of the classic Hangman game.
 The player must guess the hidden word letter by letter. Wrong guesses reduce lives, and when lives reach zero, the game ends.
 📜 How to Play
@@ -15,7 +15,7 @@ The player must guess the hidden word letter by letter. Wrong guesses reduce liv
  <The player guesses all the letters (Win 🎉)>
 
  <Lives reach zero (Lose 💀)>
- <Example Output:> _                                             
+ Example Output: _                                             
  | |                                            
  | |__   __ _ _ __   __ _ _ __ ___   __ _ _ __  
  | '_ \ / _` | '_ \ / _` | '_ ` _ \ / _` | '_ \ 
